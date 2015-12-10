@@ -1,88 +1,88 @@
 [TIPS]
 100%25.title=100%
-100%25.content=Zoom the document to 100% of the normal size.
+100%25.content=Hace que el zoom del documento sea al 100% del tamaño normal.
 
-3DColor.title=3-D color
-3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+3DColor.title=Color 3-D
+3DColor.content=Llene la figura 3-D seleccionado con el color. \n\nClic en la flecha para seleccionar diferentes colores en 3-D.
 
-3DColor2.title=3-D color
-3DColor2.content=Click the arrow to select from different 3-D colors.
+3DColor2.title=Color 3-D
+3DColor2.content=Clic en la flecha para seleccionar diferentes colores en 3-D.
 
-3DDepthMenu.title=Depth
-3DDepthMenu.content=Change the height of the selected 3-D shape.
+3DDepthMenu.title=Profundidad
+3DDepthMenu.content=Cambla la altura de la figura 3-D seleccionada.
 
-3DDirectionPalette.title=Direction
-3DDirectionPalette.content=Choose the direction effect of the selected 3-D Shape.
+3DDirectionPalette.title=Dirección
+3DDirectionPalette.content=Escoge el efecto de dirección de la figura 3-D seleccionada.
 
-3DLightingPalette.title=Lighting
-3DLightingPalette.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+3DLightingPalette.title=Iluminación
+3DLightingPalette.content=Establece la dirección de la iluminación y la intensidad en la figura 3-D seleccionado. Este último incluye brillo, normal y dim.
 
-3DOnOff.title=3-D On/Off
-3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+3DOnOff.title=Encender/Apagar 3-D
+3DOnOff.content=Enciende o apaga el efecto 3-D aplicado a la figura.
 
-3DStylePalette.title=3-D Effects
-3DStylePalette.content=Add a 3-D effect to the shape.
+3DStylePalette.title=Efectos 3-D
+3DStylePalette.content=Agrega un efecto 3-D a la figura.
 
-3DSurfaceMenu.title=Surface
-3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+3DSurfaceMenu.title=Superficie
+3DSurfaceMenu.content=Escoge un efecto de superficie para la figura 3-D en el documento.
 
-3DTiltDown.title=Tilt Down
-3DTiltDown.content=Tilt the shape forward.
+3DTiltDown.title=Inclinar Adelante
+3DTiltDown.content=Inclina la figura hacia adelante.
 
-3DTiltLeft.title=Tilt Left
-3DTiltLeft.content=Tilt the shape to the left.
+3DTiltLeft.title=Inclinar Izquierda
+3DTiltLeft.content=Inclina la figura hacia la izquierda.
 
-3DTiltRight.title=Tilt Right
-3DTiltRight.content=Tilt the shape to the right.
+3DTiltRight.title=Inclinar Derecha
+3DTiltRight.content=Inclina la figura hacia la derecha.
 
-3DTiltUp.title=Tilt Up
-3DTiltUp.content=Tilt the shape backward.
+3DTiltUp.title=Inclinar Atrás
+3DTiltUp.content=Inclina la figura hacia atrás.
 
-AcceptChangeOnTB.title=Accept the selected change
-AcceptChangeOnTB.content=Accept the current change in the document.
+AcceptChangeOnTB.title=Aceptar el cambio seleccionado.
+AcceptChangeOnTB.content=Aceptar el cambio actual en el documento.
 
-AcceptChangeOnTB2.title=Accept the selected change
-AcceptChangeOnTB2.content=Click here to accept all changes in the document.
+AcceptChangeOnTB2.title=Aceptar el cambio seleccionado.
+AcceptChangeOnTB2.content=Click aquí para aceptar todos los cambios en el documento.
 
-AdjustTableProperties.title=Table Properties
-AdjustTableProperties.content=Open the Table Properties dialog box.
+AdjustTableProperties.title=Propiedades de Tabla
+AdjustTableProperties.content=Abrir la caja de diálogo Propiedades de Tabla.
 AdjustTableProperties.img=WPSTableProperties
 
-AlignBottomCenter.title=Align Bottom Center
-AlignBottomCenter.content=Center text and align it to the bottom of the cell.
+AlignBottomCenter.title=Alinear Abajo al Centro
+AlignBottomCenter.content=Centra el texto y lo alinea a la parte baja de la celda.
 
-AlignBottomJustified.title=Align Bottom Justified
-AlignBottomJustified.content=Align text to the bottom left corner of the cell.
+AlignBottomJustified.title=Alinear Abajo Justificado
+AlignBottomJustified.content=Justifica el texto y lo alinea a la parte baja de la celda.
 
-AlignBottomRight.title=Align Bottom Right
-AlignBottomRight.content=Align text to the bottom right corner of the cell.
+AlignBottomRight.title=Alinear Abajo a la Derecha
+AlignBottomRight.content=Alinea el texto a la esquina inferior derecha de la celda.
 
-AlignCenter.title=Align Center
-AlignCenter.content=Center text vertically and horizontally within the cell.
+AlignCenter.title=Alinear al Centro
+AlignCenter.content=Centra el texto vertical y horizontalmente dentro de la celda.
 
-AlignCenterJustified.title=Align Center Justified
-AlignCenterJustified.content=Center text vertically and align it to the left side of the cell.
+AlignCenterJustified.title=Alinear Centro Justificado
+AlignCenterJustified.content=Centra el texto verticalmente y lo Justifica dentro de la celda.
 
-AlignCenterRight.title=Align Center Right
-AlignCenterRight.content=Center text vertically and align it to the right side of the cell.
+AlignCenterRight.title=Alinear Cenro a la Derecha
+AlignCenterRight.content=Centra el texto verticalmente y lo alinea a la parte derecha de la celda.
 
-AlignStyle.title=Alignment
-AlignStyle.content=Specify how content in the cell should be aligned.
+AlignStyle.title=Alineación
+AlignStyle.content=Especifica como alinear el contenido de la celda.
 
-AlignStyle2.title=Alignment
-AlignStyle2.content=Specify how content in the cell should be aligned.
+AlignStyle2.title=Alineación
+AlignStyle2.content=Especifica como alinear el contenido de la celda.
 
-AlignTopCenter.title=Align Top Center
-AlignTopCenter.content=Center text and align it to the top of the cell.
+AlignTopCenter.title=Alinear Arriba al Centro
+AlignTopCenter.content=Centra el texto horizontalmente y lo alinea a la parte superior de la celda.
 
-AlignTopJustified.title=Align Top Justified
-AlignTopJustified.content=Align text to the top left corner of the cell.
+AlignTopJustified.title=Alinear Arriba Justifcado
+AlignTopJustified.content=Justifica el texto horizontalmente y lo alinea a la parte superior de la celda.
 
-AlignTopRight.title=Align Top Right
-AlignTopRight.content=Align text to the top right corner of the cell.
+AlignTopRight.title=Alinear Arriba a la Derecha
+AlignTopRight.content=Alinea el texto a la esquina superior derecha de la celda.
 
-ArrangeAll.title=Arrange All
-ArrangeAll.content=Tile all opened documents side-by-side under the same program window.
+ArrangeAll.title=Mosaico Todos
+ArrangeAll.content=Acomoda todos los documentos abiertos en disposición de Mosaico de lado a lado en la misma ventana del programa.
 
 ArtisticWordCharacterSpacing.title=Character Spacing
 ArtisticWordCharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
